@@ -1,5 +1,13 @@
 # Obstacle Avoiding Robot Using IR Sensors (4 Wheels)
 
+<p align="center">
+  <img src="Obstacle Avoiding Robot.jpg" alt="Obstacle Avoiding Robot Front View" width="600" />
+</p>
+
+<p align="center">
+  <img src="QAR Side View.jpg" alt="Obstacle Avoiding Robot Side View" width="600" />
+</p>
+
 This project is an Arduino-controlled autonomous robot that moves forward, detects obstacles using IR sensors, avoids them by reversing and turning, and also stops when a flame/fire source is detected.
 
 The robot uses:
